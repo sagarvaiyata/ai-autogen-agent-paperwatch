@@ -23,7 +23,7 @@ A console-based pipeline for on-demand literature reviews, built with Microsoft 
    ```bash
    git clone https://github.com/sagarvaiyata/PaperWatchAgent.git
    cd PaperWatchAgent
-````
+   ```
 
 2. **Create & activate a virtual environment**
 
